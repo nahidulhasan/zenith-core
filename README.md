@@ -10,4 +10,3 @@ Run with:
 API endpoints: `/api/tasks` (CRUD).
 
 License: MIT
-# zenith-core
